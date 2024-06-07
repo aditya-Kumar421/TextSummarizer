@@ -4,7 +4,7 @@
 
 <h2>🚀 Documentation</h2>
 
-[Postman-documentation] (https://www.postman.com/varsitypro-3710/workspace/varsityassignment/documentation/34380419-adf4152d-8d7b-46f4-850e-e18038e69634)
+[Postman-documentation](https://www.postman.com/varsitypro-3710/workspace/varsityassignment/documentation/34380419-adf4152d-8d7b-46f4-850e-e18038e69634)
 
   
 <h2>🛠️ Installation Steps:</h2>
