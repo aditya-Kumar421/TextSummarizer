@@ -12,7 +12,7 @@
 1. Clone the repository:
 
 ```CMD
-git clone https://github.com/aditya-Kumar421/TextSummarizer.git
+git clone https://github.com/aditya-Kumar421/varsityPro.git
 ```
 
 To run the server, you need to have Python installed on your machine. If you don't have it installed, you can follow the instructions [here](https://www.geeksforgeeks.org/download-and-install-python-3-latest-version/) to install it.
@@ -27,6 +27,7 @@ python -m venv env
 
 ```CMD
 env\Scripts\activate
+cd varsityPro
 ```
 
 4. Install the dependencies:
