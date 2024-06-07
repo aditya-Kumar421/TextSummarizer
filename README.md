@@ -4,7 +4,7 @@
 
 <h2>🚀 Documentation</h2>
 
-[https://www.postman.com/varsitypro-3710/workspace/varsityassignment/documentation/34380419-adf4152d-8d7b-46f4-850e-e18038e69634](Postman documentation)
+[https://www.postman.com/varsitypro-3710/workspace/varsityassignment/documentation/34380419-adf4152d-8d7b-46f4-850e-e18038e69634] (Postman documentation)
 
   
 <h2>🛠️ Installation Steps:</h2>
@@ -23,34 +23,35 @@ To run the server, you need to have Python installed on your machine. If you don
 python -m venv env
 ```
 
-Activate the virtual environment
+3. Activate the virtual environment
 
 ```CMD
 env\Scripts\activate
 ```
 
-3. Install the dependencies:
+4. Install the dependencies:
 
 ```CMD
 pip install -r requirements.txt
 ```
 
-<p>5. Set Up Database:</p>
+5. Set Up Database:
 
 ```
 python manage.py migrate
 ```
 
-<p>6. Run the Development Server:</p>
+6. Run the Development Server:
 
 ```
 python manage.py runserver
 ```
 
-<p>7. Access the Endpoints:</p>
+7. Access the Endpoints:
 
 ```
 http://127.0.0.1:8000/swagger/
+http://127.0.0.1:8000/redoc/
 ```
 
 <h2>🍰 Contribution Guidelines:</h2>
